@@ -74,16 +74,6 @@ Currently building apps, APIs, and machine learning models that solve real-life 
 
 ---
 
-## 🖼️ Demos (GIFs)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZldjk3b3hsOXlmZXRwOGFuYWdiY25kZHQ2dzl3aHV4aG1xd3E3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
-  <br/><em>Building, debugging, and having fun 🚀</em>
-</p>
-
----
-
 ## ☎️ Let's Chat
 
 Whether it’s AI ideas, React tips, or startup collabs — feel free to reach out:
