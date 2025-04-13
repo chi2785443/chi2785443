@@ -62,6 +62,28 @@ Currently building apps, APIs, and machine learning models that solve real-life 
 🧠 Deep-diving into AI/ML + data science
 📱 Building products for social good and student success
 ```
+## 🛠️ What I Use Most
+
+**Languages & Tools**  
+`TypeScript` `JavaScript` `Python` `Dart` `React` `Next.js` `Node.js` `NestJS`  
+`MongoDB` `Firebase` `Express` `TailwindCSS` `React Native` `Flutter` `Vite`
+
+**ML/AI Stack**  
+`Pandas` `Scikit-learn` `TensorFlow` `Keras` `NumPy` `Matplotlib` `Jupyter`
+
+**Dev & Ops**  
+`Git` `Docker` `VSCode` `Postman` `Linux` `Notion` `Figma`
+
+---
+
+## ⚙️ What I’ve Been Working On
+
+- 📱 **Church App** – React Native + PayPal integration for contributions
+- 🧪 **Water Quality Predictor** – ML model to predict parameters for water safety
+- 🎓 **Student Exam App** – Helping university students prep smarter (in progress)
+- 🧱 **DoE Concrete Mixer** – Android app for civil engineers
+- 👨‍👩‍👧‍👦 **Social App Backend** – Node.js/NestJS + MongoDB
+- 🏡 **Tenancy Platform** – Full stack React + Node system
 
 ---
 
