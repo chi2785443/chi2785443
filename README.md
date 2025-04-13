@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Chinedu!</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🧠 AI/ML Enthusiast | 🏗️ Civil Engineer<br/>
+  🚀 Software Engineer | 🧠 AI/ML Enthusiast | 🏗️ Civil Engineer<br/>
   <em>Building smart apps, training smart models, and solving real-world problems with code 💡</em>
 </p>
 
@@ -20,7 +20,7 @@ I’m **Chinedu Aguwa**, a passionate software developer with a love for **AI/ML
 Currently building apps, APIs, and machine learning models that solve real-life problems 🌍
 
 - 🧠 Exploring AI/ML daily (Python, TensorFlow, Scikit-learn)
-- 💻 Building full-stack apps in React, Node, NestJS
+- 💻 Building full-stack apps in React, Nextjs, Node, NestJS, Django and Go
 - 📱 Creating mobile apps with React Native & Flutter
 - 🎓 Based in Abuja, Nigeria 🇳🇬
 
@@ -37,19 +37,6 @@ Currently building apps, APIs, and machine learning models that solve real-life 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 🚀 Highlight Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🎯 **Church Mobile App** | React Native, PayPal | Full-featured app for church contributions & management |
-| 🧪 **Water Quality Predictor** | Python, ML | Predicts water parameters using machine learning |
-| 📚 **Student Exam App** | React Native | Helps university students prep better with past questions |
-| 🧱 **Concrete Mix App** | Flutter | DoE mix calculator for civil engineers |
-| 🏘 **Tenancy System** | React + Node.js | Manages properties, tenants, payments |
-| 👥 **Social App Backend** | NestJS + MongoDB | Communities, groups, events, and a store |
 
 ---
 
