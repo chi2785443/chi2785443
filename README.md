@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chi2785443"><img src="https://img.shields.io/github/followers/chi2785443?label=Follow&style=social" /></a>
   <a href="mailto:neduaguwa443@gmail.com"><img src="https://img.shields.io/badge/Email-neduaguwa443@gmail.com-blue?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/chinedu-aguwa-b1747a2b0"><img src="https://img.shields.io/badge/LinkedIn-Chinedu%20Aguwa-blue?style=flat-square&logo=linkedin" /></a>
 </p>
