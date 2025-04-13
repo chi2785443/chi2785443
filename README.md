@@ -75,17 +75,6 @@ Currently building apps, APIs, and machine learning models that solve real-life 
 
 ---
 
-## 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chi2785443&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi2785443&theme=radical" width="49%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi2785443&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
 ## ☎️ Let's Chat
 
 Whether it’s AI ideas, React tips, or startup collabs — feel free to reach out:
