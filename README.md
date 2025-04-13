@@ -1,80 +1,99 @@
-<!--
-**chi2785443/chi2785443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there 👋, I'm Chinedu!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Full Stack Developer | 🧠 AI/ML Enthusiast | 🏗️ Civil Engineer<br/>
+  <em>Building smart apps, training smart models, and solving real-world problems with code 💡</em>
+</p>
 
-# Hi there, I'm Chinedu! 👋
-
-### 👨‍💻 I'm a Full Stack Developer, AI/ML Enthusiast & Civil Engineer
-
-I’m currently working on **AI-powered projects**, **full-stack applications**, and exploring the amazing world of **Machine Learning**.
-
-🌱 **Currently learning**: Django for backend, Next.js, AI/ML, and building smarter solutions
-
-💬 **Ask me about**: React, Node.js, AI, TensorFlow, full-stack web development, or civil engineering topics.
-
-📫 **How to reach me**:
-- Email me at [neduaguwa443@gmail.com](mailto:neduaguwa443@gmail.com)
-- Find me on [LinkedIn](https://www.linkedin.com/in/chinedu-aguwa-b1747a2b0)
-- Check out my GitHub: [@chi2785443](https://github.com/chi2785443)
+<p align="center">
+  <a href="https://github.com/chi2785443"><img src="https://img.shields.io/github/followers/chi2785443?label=Follow&style=social" /></a>
+  <a href="mailto:neduaguwa443@gmail.com"><img src="https://img.shields.io/badge/Email-neduaguwa443@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/chinedu-aguwa-b1747a2b0"><img src="https://img.shields.io/badge/LinkedIn-Chinedu%20Aguwa-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 🔭 Current Work
-- **Building a church management app** using React Native with PayPal integration and dynamic UI elements.
-- **Developing a social media backend** using TypeScript, NestJS, Node.js, and MongoDB.
-- **Creating a student exam prep app** for university students to help them study smarter with pre-tests and past questions.
+## 👨‍💻 About Me
+
+I’m **Chinedu Aguwa**, a passionate software developer with a love for **AI/ML** and a strong background in **civil engineering**.  
+Currently building apps, APIs, and machine learning models that solve real-life problems 🌍
+
+- 🧠 Exploring AI/ML daily (Python, TensorFlow, Scikit-learn)
+- 💻 Building full-stack apps in React, Node, NestJS
+- 📱 Creating mobile apps with React Native & Flutter
+- 🎓 Based in Abuja, Nigeria 🇳🇬
 
 ---
 
-### 🌱 I’m currently learning:
-- **Django** for building robust backends
-- Advanced **AI and ML** algorithms with Python
-- **Next.js** for better web app performance
+## ⚒️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### 👯 I’m looking to collaborate on:
-- **AI/ML-based solutions**
-- **Web & mobile app development**
-- **Engineering projects combining code and real-world applications**
+## 🚀 Highlight Projects
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🎯 **Church Mobile App** | React Native, PayPal | Full-featured app for church contributions & management |
+| 🧪 **Water Quality Predictor** | Python, ML | Predicts water parameters using machine learning |
+| 📚 **Student Exam App** | React Native | Helps university students prep better with past questions |
+| 🧱 **Concrete Mix App** | Flutter | DoE mix calculator for civil engineers |
+| 🏘 **Tenancy System** | React + Node.js | Manages properties, tenants, payments |
+| 👥 **Social App Backend** | NestJS + MongoDB | Communities, groups, events, and a store |
 
 ---
 
-### ⚡ Fun fact:
-I love the intersection of **software development** and **civil engineering** — solving problems that have real-world impact! 🎯
+## 📅 My Developer Journey
+
+```text
+👨‍🎓 B.Eng in Civil Engineering
+🔧 Built real-world structural & site solutions
+👨‍💻 Transitioned into full-stack web & mobile dev
+🧠 Deep-diving into AI/ML + data science
+📱 Building products for social good and student success
+```
 
 ---
 
-### 📈 GitHub Stats & Streak
-![Chinedu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chi2785443&show_icons=true&theme=radical)
-![Chinedu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chi2785443&theme=radical)
+## 🖼️ Demos (GIFs)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZldjk3b3hsOXlmZXRwOGFuYWdiY25kZHQ2dzl3aHV4aG1xd3E3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <br/><em>Building, debugging, and having fun 🚀</em>
+</p>
 
 ---
 
-### 🖼️ Projects
-Here are some of the projects I’m working on:
+## 📈 GitHub Stats & Streak
 
-1. **Church Mobile App** - A church management app built with React Native, allowing donations via PayPal and user management.
-2. **Water Quality Predictor** - An AI model built using Python and ML algorithms to predict water parameters.
-3. **Concrete Mix Calculator** - An app developed with Flutter to help civil engineers determine the best concrete mix based on the Design of Experiments (DoE).
-4. **Student Exam Prep App** - A React Native app that helps university students prepare for exams by offering past questions, quizzes, and materials.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chi2785443&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi2785443&theme=radical" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi2785443&layout=compact&theme=radical" width="50%" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
-You can reach me anytime for questions, collaborations, or discussions on software and AI:
+## ☎️ Let's Chat
 
-- 📧 [Email](mailto:neduaguwa443@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chinedu-aguwa-b1747a2b0)
-- 📱 +234 810 547 1046
+Whether it’s AI ideas, React tips, or startup collabs — feel free to reach out:
+
+📧 [Email](mailto:neduaguwa443@gmail.com)  
+📱 +234 810 547 1046  
+💼 [LinkedIn](https://www.linkedin.com/in/chinedu-aguwa-b1747a2b0)  
+💻 [GitHub](https://github.com/chi2785443)
+
+---
+
