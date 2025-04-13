@@ -66,18 +66,7 @@ Currently building apps, APIs, and machine learning models that solve real-life 
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ---
-
-## 📅 My Developer Journey
-
-```text
-👨‍🎓 B.Eng in Civil Engineering
-🔧 Built real-world structural & site solutions
-👨‍💻 Transitioned into full-stack web & mobile dev
-🧠 Deep-diving into AI/ML + data science
-📱 Building products for social good and student success
-```
 
 ## ⚙️ What I’ve Been Working On
 
