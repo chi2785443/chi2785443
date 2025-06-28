@@ -71,17 +71,6 @@ Currently:
 
 ---
 
-## 🧠 Recent Improvements
-
-- 🔧 Shifted backend to Django, FastAPI, and NestJS for better modular design and scalability
-- ⚡ Integrated Redis and WebSockets for real-time communication in SaaS apps
-- 🧠 Enhanced TensorFlow Lite + OpenCV knowledge for mobile AI apps
-- 🧱 Improved BIM integration strategies using 3D repo viewers and IFC parsing
-- 🧰 Mastered Docker & Docker Compose for efficient local and cloud development
-- 🎯 Focused on production-ready architectures (MVP → SaaS)
-
----
-
 ## ☎️ Let's Connect
 
 I'm open to freelance collaborations, research partnerships, and building products that matter.
